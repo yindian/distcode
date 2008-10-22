@@ -9,4 +9,4 @@
   * 2008-10-19 - 添加字符, 共 6666 字.
   * 2008-10-21 - 添加字符, 共 6817 字.
   * 2008-10-22 - 添加字符, 共 6930 字.
-  * 2008-10-23 - 添加字符, _百度畅销书排行榜_ 所缺字符整理完毕, 未全部添加. 添加 [http://baike.baidu.com/view/13689.htm 天干地支], [http://baike.baidu.com/view/4881.htm 八卦], [http://baike.baidu.com/view/1917.htm 五十六个民族名称] 及 [http://zh.wikipedia.org/w/index.php?title=%E7%99%BE%E5%AE%B6%E5%A7%93 百家姓] 中所缺字符. 调整个别字符排列错误, 修改部分来源描述. 共 7198 字.
+  * 2008-10-23 - _百度畅销书排行榜_ 所缺字符整理完毕, 未全部添加. 添加 [http://baike.baidu.com/view/13689.htm 天干地支], [http://baike.baidu.com/view/4881.htm 八卦], [http://baike.baidu.com/view/1917.htm 五十六个民族名称] 及 [http://zh.wikipedia.org/w/index.php?title=%E7%99%BE%E5%AE%B6%E5%A7%93 百家姓] 中所缺字符. 调整个别字符排列错误, 修改部分来源描述. 共 7198 字.
