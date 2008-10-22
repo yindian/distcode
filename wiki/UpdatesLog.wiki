@@ -1,7 +1,7 @@
   * 2008-10-07 - 在 [http://appsrv.cse.cuhk.edu.hk/~irg/irg/IICore/IRGN1067R2_IICore22_MappingTable.txt IICore 2.2] 基础上仅保留 G (中国), H (香港), M (澳门), T (台湾) 所使用汉字, 剩 8874 字.
   * 2008-10-09 - 删除香港, 澳门, 台湾的类别 C 汉字, 剩 8217 字.
   * 2008-10-09 - 删除香港, 澳门, 台湾所递交且非此三个地区均递交汉字, 剩 7485 字.
-  * 2008-10-13 - 重新以 Unihan 5.1 为基础, 分别筛选出包含 kFrequency (繁体中文频度等级), kGradeLevel (香港汉字教育水平等级), kHanyuPinlu (现代汉语读音频率) 三种标签的汉字, 共 5501 字.
+  * 2008-10-13 - 重新以 [ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip Unihan 5.1] 为基础, 分别筛选出包含 kFrequency (繁体中文频度等级), kGradeLevel (香港汉字教育水平等级), kHanyuPinlu (现代汉语读音频率) 三种标签的汉字, 共 5501 字.
   * 2008-10-14 - 添加字符. 参照当日 [http://list.mp3.baidu.com/list/oldsong.html 百度 MP3 经典老歌排行榜] 中前一百首歌词, 所缺字符已全部添加. 以及当日 [http://top.baidu.com/index2.html?c=3&s=6 百度畅销书排行榜] 中能找到电子文本的 47 部,所缺字符以出现频率排列, 侧重口语及名词. 新添字符均以橙黄色背景标出, 目前共 5695 字.
   * 2008-10-15 - 继续添加字符, 共 5882 字.
   * 2008-10-16 - 添加字符... 共 6228 字.
