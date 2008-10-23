@@ -1,12 +1,12 @@
-  * 2008-10-07 - 在 [http://appsrv.cse.cuhk.edu.hk/~irg/irg/IICore/IRGN1067R2_IICore22_MappingTable.txt IICore 2.2] 基础上仅保留 G (中国), H (香港), M (澳门), T (台湾) 所使用汉字, 剩 8874 字.
+  * 2008-10-07 - 在 [http://appsrv.cse.cuhk.edu.hk/~irg/irg/IICore/IICore.htm IICore 2.2] 基础上仅保留 G (中国), H (香港), M (澳门), T (台湾) 所使用汉字, 剩 8874 字.
   * 2008-10-09 - 删除香港, 澳门, 台湾的类别 C 汉字, 剩 8217 字.
   * 2008-10-09 - 删除香港, 澳门, 台湾所递交且非此三个地区均递交汉字, 剩 7485 字.
-  * 2008-10-13 - 重新以 [ftp://ftp.unicode.org/Public/UNIDATA/Unihan.zip Unihan 5.1] 为基础, 分别筛选出包含 kFrequency (繁体中文频度等级), kGradeLevel (香港汉字教育水平等级), kHanyuPinlu (现代汉语读音频率) 三种标签的汉字, 共 5501 字.
-  * 2008-10-14 - 添加字符. 参照当日 [http://list.mp3.baidu.com/list/oldsong.html 百度 MP3 经典老歌排行榜] 中前一百首歌词, 所缺字符已全部添加. 以及当日 [http://top.baidu.com/index2.html?c=3&s=6 百度畅销书排行榜] 中能找到电子文本的 47 部, 所缺字符以出现频率排列, 人工筛选侧重口语及名词部分. 新添字符均以橙黄色背景标出, 目前共 5695 字.
+  * 2008-10-13 - 重新以 [http://unicode.org/charts/unihan.html Unihan 5.1] 为基础, 分别筛选出包含 kFrequency (繁体中文频度等级), kGradeLevel (香港汉字教育水平等级), kHanyuPinlu (现代汉语读音频率) 三种标签的汉字, 共 5501 字.
+  * 2008-10-14 - 添加字符. 参照当日 [http://list.mp3.baidu.com/topso/mp3topsong.html 百度 MP3 歌曲 TOP 500] 中前 100 首歌词, 所缺字符已全部添加. 以及当日 [http://top.baidu.com/index2.html?c=3&s=6 百度畅销书排行榜] 中能找到电子文本的 47 部, 所缺字符以出现频率排列, 人工筛选侧重口语及名词部分. 新添字符均同时添加简繁体并以橙黄色背景标出, 目前共 5695 字.
   * 2008-10-15 - 继续添加字符, 共 5882 字.
   * 2008-10-16 - 添加字符... 共 6228 字.
   * 2008-10-17 - 添加并调整个别字符排列顺序错误, 共 6482 字.
   * 2008-10-19 - 添加字符, 共 6666 字.
   * 2008-10-21 - 添加字符, 共 6817 字.
   * 2008-10-22 - 添加字符, 共 6930 字.
-  * 2008-10-23 - _百度畅销书排行榜_ 所缺字符整理完毕, 未全部添加. 添加 [http://baike.baidu.com/view/13689.htm 天干地支], [http://baike.baidu.com/view/4881.htm 八卦], [http://baike.baidu.com/view/1917.htm 五十六个民族名称] 及 [http://zh.wikipedia.org/w/index.php?title=%E7%99%BE%E5%AE%B6%E5%A7%93 百家姓] 中所缺字符. 调整个别字符排列错误, 修改部分来源描述. 共 7198 字.
+  * 2008-10-23 - _百度畅销书排行榜_ 所缺字符整理完毕, 未全部添加. 添加 [http://baike.baidu.com/view/13689.htm 天干地支], [http://baike.baidu.com/view/4881.htm 八卦], [http://baike.baidu.com/view/1917.htm 五十六个民族名称], [http://zh.wikipedia.org/w/index.php?title=%E7%99%BE%E5%AE%B6%E5%A7%93 百家姓] 及 [http://zh.wikipedia.org/w/index.php?title=%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8 元素周期表] 中所缺字符. 调整个别字符排列错误, 修改部分来源描述. 共 7198 字.
