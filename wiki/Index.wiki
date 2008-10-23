@@ -1,0 +1,7 @@
+==更新日志==
+
+[http://code.google.com/p/distcode/wiki/UpdatesLog UpdatesLog]
+
+==标记帮助==
+
+[http://code.google.com/p/distcode/wiki/TagsHelp TagsHelp]
