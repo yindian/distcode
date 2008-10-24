@@ -14,6 +14,7 @@
   * 查询: 搜狗实验室用户查询日志 2006 版中出现频率大于 100 次的字符 [[http://www.sogou.com/labs/dl/q.html Link]]
   * 成语: 紫光华宇输入法成语词库 (更新日期: 2008-01-31) 中出现频率大于 10 次的字符 [[http://www.unispim.com/wordlib/wordlib_detail.php?id=3 Link]]
   * 股票: 紫光华宇输入法股票词库 (更新日期: 2007-11-26) [[http://www.unispim.com/wordlib/wordlib_detail.php?id=34 Link]]
+  * 娱乐: 紫光华宇输入法娱乐词库 (更新日期: 2008-01-30) [[http://www.unispim.com/wordlib/wordlib_detail.php?id=6 Link]]
 
 ==颜色标记==
 
