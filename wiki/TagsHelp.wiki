@@ -16,6 +16,7 @@
   * 股票: 紫光华宇输入法股票词库 (更新日期: 2007-11-26) [[http://www.unispim.com/wordlib/wordlib_detail.php?id=34 Link]]
   * 娱乐: 紫光华宇输入法娱乐词库 (更新日期: 2008-01-30) [[http://www.unispim.com/wordlib/wordlib_detail.php?id=6 Link]]
   * 生活: 紫光华宇输入法生活词库 (更新日期: 2008-01-30) 中出现频率大于 5 次的字符 [[http://www.unispim.com/wordlib/wordlib_detail.php?id=5 Link]]
+  * 人名: 紫光华宇输入法人名词库 (更新日期: 2008-01-30) 中出现频率大于 1 次的字符 [[http://www.unispim.com/wordlib/wordlib_detail.php?id=1 Link]]
 
 ==颜色标记==
 
