@@ -27,6 +27,7 @@
   * 计算机: 搜狗拼音输入法计算机名词细胞词库 (第 37 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=151 Link]]
   * 医学: 搜狗拼音输入法医学词汇大全细胞词库 (第 24 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=120 Link]]
   * 药品: 搜狗拼音输入法药品名称大全细胞词库 (第 20 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=270 Link]]
+  * 机械: 搜狗拼音输入法机械工程词汇大全细胞词库 (第 7 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=149 Link]]
 
 ==颜色标记==
 
