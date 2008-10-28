@@ -29,6 +29,7 @@
   * 药品: 搜狗拼音输入法药品名称大全细胞词库 (第 20 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=270 Link]]
   * 机械: 搜狗拼音输入法机械工程词汇大全细胞词库 (第 7 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=149 Link]]
   * 电子: 搜狗拼音输入法电子术语大全细胞词库 (第 4 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=133 Link]]
+  * 魔兽: 搜狗拼音输入法魔兽世界细胞词库 (第 108 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=122 Link]]
 
 ==颜色标记==
 
