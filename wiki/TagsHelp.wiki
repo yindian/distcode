@@ -24,6 +24,7 @@
   * 餐饮: 搜狗拼音输入法常用餐饮词汇细胞词库 (第 1 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=11978 Link]]
   * 宋词: 搜狗拼音输入法宋词精选细胞词库 (第 32 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=3 Link]]
   * 名句: 搜狗拼音输入法古诗词名句细胞词库 (第 39 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=2 Link]]
+  * 计算机: 搜狗拼音输入法计算机名词细胞词库 (第 37 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=151 Link]]
 
 ==颜色标记==
 
