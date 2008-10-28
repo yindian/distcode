@@ -21,7 +21,8 @@
   * 诗词: 紫光华宇输入法诗词词库 (更新日期: 2007-11-09) 中出现频率大于 1 次的字符 [[http://www.unispim.com/wordlib/wordlib_detail.php?id=4 Link]]
   * 简繁: 截止到 081026 完成前字符集内缺少已包含繁体字对应的简体或简体对应的繁体.
   * 唐诗: 搜狗拼音输入法唐诗 300 首细胞词库 (第 22 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=1 Link]]
-  * 餐饮: 搜狗输入法常用餐饮词汇细胞词库 (第 1 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=11978 Link]]
+  * 餐饮: 搜狗拼音输入法常用餐饮词汇细胞词库 (第 1 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=11978 Link]]
+  * 宋词: 搜狗拼音输入法宋词精选细胞词库 (第 32 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=3 Link]]
 
 ==颜色标记==
 
