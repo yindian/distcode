@@ -33,6 +33,7 @@
   * 姓名: 搜狗拼音输入法人名名单细胞词库 (第 167 个版本) 中出现频率大于 10 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=5276 Link]]
   * 工程: 搜狗输入法工程类综合词库细胞词库 (第 32 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=11051 Link]]
   * 全国: 搜狗拼音输入法最详细的全国地名大全细胞词库 (第 3 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=1316 Link]]
+  * 高频: 搜狗拼音输入法高频人名—2万个细胞词库 (第 31 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=767 Link]]
 
 ==颜色标记==
 
