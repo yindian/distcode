@@ -31,6 +31,7 @@
   * 电子: 搜狗拼音输入法电子术语大全细胞词库 (第 4 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=133 Link]]
   * 魔兽: 搜狗拼音输入法魔兽世界细胞词库 (第 108 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=122 Link]]
   * 姓名: 搜狗拼音输入法人名名单细胞词库 (第 167 个版本) 中出现频率大于 10 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=5276 Link]]
+  * 工程: 搜狗输入法工程类综合词库细胞词库 (第 32 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=11051 Link]]
 
 ==颜色标记==
 
