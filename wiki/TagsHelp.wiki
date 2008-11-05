@@ -39,6 +39,7 @@
   * 生物: 搜狗拼音输入法生物学词汇扩大版细胞词库 (第 2 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=3277 Link]]
   * 影视: 搜狗拼音输入法影视歌名库细胞词库 (第 67 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=8582 Link]]
   * 数学: 搜狗拼音输入法数学物理化学整合词库细胞词库 (第 3 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=1561 Link]]
+  * 日剧: 搜狗拼音输入法日剧电影动漫和日本明星细胞词库 (第 237 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=469 Link]]
 
 ==颜色标记==
 
