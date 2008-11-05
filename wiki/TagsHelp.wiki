@@ -44,6 +44,7 @@
   * 佛学: 搜狗拼音输入法佛学常见词汇细胞词库 (第 1 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=269 Link]]
   * 动漫: 搜狗拼音输入法动漫辞书细胞词库 (第 7 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=2022 Link]]
   * 电缆: 搜狗拼音输入法电线电缆词库细胞词库 (第 2 个版本) [[http://pinyin.sogou.com/dict/cell.php?id=6885 Link]]
+  * 诗经: 搜狗拼音输入法《诗经》篇名与诗句细胞词库 (第 1 个版本) 中出现频率大于 25 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=448 Link]]
 
 ==颜色标记==
 
