@@ -3,6 +3,7 @@
 表格中第四列为字符添加来源, 它们分别代表以下意义:
 
   * 其它: 额外添加的字符
+  * 简繁: 截止到更新日期时字符集内缺少已包含繁体对应的简体或简体对应的繁体以及常用的异体字.
   * 歌词: 2008 年 10 月 14 日百度 MP3 歌曲 TOP 500 中前 100 首歌词 [[http://list.mp3.baidu.com/topso/mp3topsong.html Link]]
   * 畅销书: 2008 年 10 月 14 日百度畅销书排行榜 50 部中能找到电子文本的 47 部 [[http://top.baidu.com/index2.html?c=3&s=6 Link]]
   * 干支: 天干地支 [[http://baike.baidu.com/view/13689.htm Link]]
@@ -19,7 +20,6 @@
   * 人名: 紫光华宇输入法人名词库 (更新日期: 2008-01-30) 中出现频率大于 1 次的字符 [[http://www.unispim.com/wordlib/wordlib_detail.php?id=1 Link]]
   * 地名: 紫光华宇输入法地名词库 (更新日期: 2008-01-30) [[http://www.unispim.com/wordlib/wordlib_detail.php?id=2 Link]]
   * 诗词: 紫光华宇输入法诗词词库 (更新日期: 2007-11-09) 中出现频率大于 1 次的字符 [[http://www.unispim.com/wordlib/wordlib_detail.php?id=4 Link]]
-  * 简繁: 截止到 081026 完成前字符集内缺少已包含繁体字对应的简体或简体对应的繁体.
   * 唐诗: 搜狗拼音输入法唐诗 300 首细胞词库 (第 22 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=1 Link]]
   * 餐饮: 搜狗拼音输入法常用餐饮词汇细胞词库 (第 1 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=11978 Link]]
   * 宋词: 搜狗拼音输入法宋词精选细胞词库 (第 32 个版本) 中出现频率大于 1 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=3 Link]]
