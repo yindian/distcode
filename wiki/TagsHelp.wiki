@@ -47,6 +47,7 @@
   * 诗经: 搜狗拼音输入法《诗经》篇名与诗句细胞词库 (第 1 个版本) 中出现频率大于 25 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=448 Link]]
   * 精选: 搜狗拼音输入法搜狗精选词库细胞词库 (第 2 个版本) 中出现频率大于 25 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=11826 Link]]
   * 广州: 搜狗拼音输入法广州话词组细胞词库 (第 6 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=259 Link]]
+  * 文言: 搜狗拼音输入法诗词文言词库(精华版) (第 2 个版本) 中出现频率大于 5 次的字符 [[http://pinyin.sogou.com/dict/cell.php?id=7514 Link]]
 
 ==颜色标记==
 
