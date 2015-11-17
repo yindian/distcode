@@ -1,0 +1,58 @@
+## 来源标记 ##
+
+表格中第四列为字符添加来源, 它们分别代表以下意义:
+
+  * 其它: 额外添加的字符
+  * 简繁: 截止到更新日期时字符集内缺少已包含繁体对应的简体或简体对应的繁体以及常用的异体字.
+  * 歌词: 2008 年 10 月 14 日百度 MP3 歌曲 TOP 500 中前 100 首歌词 [[Link](http://list.mp3.baidu.com/topso/mp3topsong.html)]
+  * 畅销书: 2008 年 10 月 14 日百度畅销书排行榜 50 部中能找到电子文本的 47 部 [[Link](http://top.baidu.com/index2.html?c=3&s=6)]
+  * 干支: 天干地支 [[Link](http://baike.baidu.com/view/13689.htm)]
+  * 八卦: 八卦 [[Link](http://baike.baidu.com/view/4881.htm)]
+  * 民族: 56 个民族名称 [[Link](http://baike.baidu.com/view/1917.htm)]
+  * 姓氏: 老百家姓与 2007 年 4 月公安部公布的姓氏排行 100 位 [[Link](http://zh.wikipedia.org/w/index.php?title=%E7%99%BE%E5%AE%B6%E5%A7%93)]
+  * 元素: 元素周期表 [[Link](http://zh.wikipedia.org/w/index.php?title=%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8)]
+  * 新闻: 搜狗实验室全网新闻数据 2008 版中出现频率大于 100 次的字符 [[Link](http://www.sogou.com/labs/dl/ca.html)]
+  * 查询: 搜狗实验室用户查询日志 2006 版中出现频率大于 100 次的字符 [[Link](http://www.sogou.com/labs/dl/q.html)]
+  * 成语: 紫光华宇输入法成语词库 (更新日期: 2008-01-31) 中出现频率大于 10 次的字符 [[Link](http://www.unispim.com/wordlib/wordlib_detail.php?id=3)]
+  * 股票: 紫光华宇输入法股票词库 (更新日期: 2007-11-26) [[Link](http://www.unispim.com/wordlib/wordlib_detail.php?id=34)]
+  * 娱乐: 紫光华宇输入法娱乐词库 (更新日期: 2008-01-30) [[Link](http://www.unispim.com/wordlib/wordlib_detail.php?id=6)]
+  * 生活: 紫光华宇输入法生活词库 (更新日期: 2008-01-30) 中出现频率大于 5 次的字符 [[Link](http://www.unispim.com/wordlib/wordlib_detail.php?id=5)]
+  * 人名: 紫光华宇输入法人名词库 (更新日期: 2008-01-30) 中出现频率大于 1 次的字符 [[Link](http://www.unispim.com/wordlib/wordlib_detail.php?id=1)]
+  * 地名: 紫光华宇输入法地名词库 (更新日期: 2008-01-30) [[Link](http://www.unispim.com/wordlib/wordlib_detail.php?id=2)]
+  * 诗词: 紫光华宇输入法诗词词库 (更新日期: 2007-11-09) 中出现频率大于 1 次的字符 [[Link](http://www.unispim.com/wordlib/wordlib_detail.php?id=4)]
+  * 唐诗: 搜狗拼音输入法唐诗 300 首细胞词库 (第 22 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=1)]
+  * 餐饮: 搜狗拼音输入法常用餐饮词汇细胞词库 (第 1 个版本) 中出现频率大于 5 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=11978)]
+  * 宋词: 搜狗拼音输入法宋词精选细胞词库 (第 32 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=3)]
+  * 名句: 搜狗拼音输入法古诗词名句细胞词库 (第 39 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=2)]
+  * 计算机: 搜狗拼音输入法计算机名词细胞词库 (第 37 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=151)]
+  * 医学: 搜狗拼音输入法医学词汇大全细胞词库 (第 24 个版本) 中出现频率大于 5 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=120)]
+  * 药品: 搜狗拼音输入法药品名称大全细胞词库 (第 20 个版本) 中出现频率大于 5 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=270)]
+  * 机械: 搜狗拼音输入法机械工程词汇大全细胞词库 (第 7 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=149)]
+  * 电子: 搜狗拼音输入法电子术语大全细胞词库 (第 4 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=133)]
+  * 魔兽: 搜狗拼音输入法魔兽世界细胞词库 (第 108 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=122)]
+  * 姓名: 搜狗拼音输入法人名名单细胞词库 (第 167 个版本) 中出现频率大于 10 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=5276)]
+  * 工程: 搜狗输入法工程类综合词库细胞词库 (第 32 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=11051)]
+  * 全国: 搜狗拼音输入法最详细的全国地名大全细胞词库 (第 3 个版本) 中出现频率大于 5 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=1316)]
+  * 高频: 搜狗拼音输入法高频人名-2万个细胞词库 (第 31 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=767)]
+  * 经济: 搜狗拼音输入法经济金融类词汇细胞词库 (第 3 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=1319)]
+  * 区划: 搜狗拼音输入法四级行政区划地名词库(最全)细胞词库 (第 6 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=763)]
+  * 生物: 搜狗拼音输入法生物学词汇扩大版细胞词库 (第 2 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=3277)]
+  * 影视: 搜狗拼音输入法影视歌名库细胞词库 (第 67 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=8582)]
+  * 数学: 搜狗拼音输入法数学物理化学整合词库细胞词库 (第 3 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=1561)]
+  * 日剧: 搜狗拼音输入法日剧电影动漫和日本明星细胞词库 (第 237 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=469)]
+  * 疾病: 搜狗拼音输入法ICD-10疾病编码1细胞词库 (第 1 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=654)]
+  * 佛学: 搜狗拼音输入法佛学常见词汇细胞词库 (第 1 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=269)]
+  * 动漫: 搜狗拼音输入法动漫辞书细胞词库 (第 7 个版本) 中出现频率大于 1 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=2022)]
+  * 电缆: 搜狗拼音输入法电线电缆词库细胞词库 (第 2 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=6885)]
+  * 诗经: 搜狗拼音输入法《诗经》篇名与诗句细胞词库 (第 1 个版本) 中出现频率大于 25 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=448)]
+  * 精选: 搜狗拼音输入法搜狗精选词库细胞词库 (第 2 个版本) 中出现频率大于 25 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=11826)]
+  * 广州: 搜狗拼音输入法广州话词组细胞词库 (第 6 个版本) 中出现频率大于 5 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=259)]
+  * 文言: 搜狗拼音输入法诗词文言词库(精华版) (第 2 个版本) 中出现频率大于 5 次的字符 [[Link](http://pinyin.sogou.com/dict/cell.php?id=7514)]
+  * 冶金: 搜狗拼音输入法冶金专业细胞词库 (第 2 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=168)]
+  * 上海: 搜狗拼音输入法上海话细胞词库 (第 12 个版本) [[Link](http://pinyin.sogou.com/dict/cell.php?id=384)]
+
+## 颜色标记 ##
+
+表格中不同颜色代表不同意义, 它们分别是:
+
+  * 黄色行: 代表自 081013 基础之上添加的字符
